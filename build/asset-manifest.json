@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8bc980e7.css",
+    "main.js": "/static/js/main.75393cd6.js",
+    "static/js/453.66e54c9f.chunk.js": "/static/js/453.66e54c9f.chunk.js",
+    "static/media/meetbob.gif": "/static/media/meetbob.56066b5d7d80d95edcca.gif",
+    "static/media/VoxelWorldNoText.png": "/static/media/VoxelWorldNoText.0d86abb43465818c6841.png",
+    "static/media/logo-1.gif": "/static/media/logo-1.dfccd5161030a462b74d.gif",
+    "static/media/SunriseAndCharacter.jpg": "/static/media/SunriseAndCharacter.2976b316cb8976ec409b.jpg",
+    "static/media/minniestable.jpg": "/static/media/minniestable.93972be6836f2b59fc72.jpg",
+    "index.html": "/index.html",
+    "main.8bc980e7.css.map": "/static/css/main.8bc980e7.css.map",
+    "main.75393cd6.js.map": "/static/js/main.75393cd6.js.map",
+    "453.66e54c9f.chunk.js.map": "/static/js/453.66e54c9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bc980e7.css",
+    "static/js/main.75393cd6.js"
+  ]
+}
